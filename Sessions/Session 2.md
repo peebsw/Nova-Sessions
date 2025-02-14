@@ -28,3 +28,4 @@
 - Qelline explains that she speaks out against the Redbrands. She used to run a news column called the Phandalin Daily, where she spoke out against the Crimson Marauder. Qelline runs off then returns and asks them how good they are in a fight. Zinna tells her that Sha is very good, particularly against people in trees.
 - Caiphene goes to guard the back. Wendell and Qelline go on the roof. Zinna is in the fields setting decoys around the house + the field. The rest are keeping watch at the top of the hill overlooking the field.
 - Dravik is the one to notice an attacker making their way through the fields. Zinna doesn't hear him coming and is the first to be attacked.
+- The party fights off the attackers with minimal damage. A few crops are set on fire, and Zinna gets stabbed, but the group comes out largely unscathed.
