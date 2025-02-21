@@ -1,3 +1,35 @@
 [[2025-02-19]]
 
 ### Notes
+
+- In the aftermath of the battle, Qelline thanks the party for their help. She tells them that dinner is on her, and offers them a place to rest. Wendell calls for the party to gather at the house. Sha wants to loot the body before they do anything else.
+	- Sha finds: 1 embroidered silk handkerchief, 18 silver pieces.
+- As the group approaches house, Thistle (daughter) approaches Sha and asks about his injuries. She tells him her cat's name is named Felix and offers up her cat.
+- The group brings the unconscious Redbrand into the house to interrogate them later. The cat runs off, and Corrin sees a full-grown woman in robes at the edge of the field. She disappears. 
+- Zinna, Thistle, and Corrin go off to find the "cat." Sha enters the house to get bandaged by Qelline. Dravik and Caiphene wait by the dining table. Zinna brings in the tied up bandit and loots him.
+	- Zinna finds: shortsword, dagger. 
+- Zinna fully heals up Sha, who is still injured by the fight. 
+- Qelline brings in a newspaper and tells the group that she is the editor. She tells the group that her late husband built a secret cellar in the basement of the house. Despite her warning the locals for weeks, no action has been taken against the Redbrands.
+- ![[Qelline's Newspaper.png]]
+- Zinna brings up that Wendell overheard the plot around her house. Qelline explains that the town master is the problem, as he has not lifted a finger to stop the Redbrands. Zinna, Caiphene, and Dravik hear the banging of a wheelbarrow just outside. It seems to be a grumpy old farmer from a neighboring locale. He looks through the window and mouths a couple of words, then holds up 3 fingers before moving away from the window.
+- After a bit of talk, Qelline explains that the man likely dispatched 3 of the Redbrands in the woods, perhaps with a bit of help. The neighbor comes in. Wendell asks him if he's seen Gundren, and the neighbor tells them he's situated at ==Daran Edermath's== place.
+- Zinna takes the opportunity to bring up the pouch she found on the Redbrands in the woods. She shows it to the neighbor, Leon, who tells them that ==Sister Garael== might be able to give them some answers. 
+- Qelline asks the group who they are as they eat. Dravik takes the opportunity to slip out and keep watch. He sees a couple of farm boys dragging the bodies out from the field. Qelline tells the group Sildar used to be a local of Phandalin, then asks about the man left in the corner. Zinna tells her they plan to interrogate him. Sha says they should just kill him. Wendell suggests asking who sent him, and if they plan to send more.
+- The Redbrand begins to wake up. Zinna goes to investigate. They interrogate him. He says he isn't sure who is the leader. The guy he reports to reports to ==Braxen==, but he doesn't know who is at the top. Dravik returns and tries to persuade Qelline and her kids to leave before the second group comes around to finish them off. She agrees, but asks the party to go and speak with the town master, as he does not listen to her anymore. She mentions the Miner's Exchange, and that the person who runs it, Halia, would run the town better.
+- The party decides to kill off the remaining bandit. Wendell steps in and suggests they turn him over to the garrisons. The party agrees, and Wendell steps out to turn over the Redbrand to the garrison, with Caiphene and Zinna. 
+- As Wendell, Caiphene, and Zinna walk through the town at night, Caiphene sees, on the roof of the building, leaning against a chimney, a cloaked woman looking at the group. Caiphene calls Zinna over to look, but Zinna doesn't see anyone. Caiphene climbs on the roof to check, and finds that her feet perfectly fit within the space where the figure was.
+- Wendell sees
+	- Claw marks on the southern trail
+	- Brigand activities
+	- When guards were assigned to certain things
+- However, nobody seems to be around. Wendell takes a ledger as evidence. They decide to leave the Redbrand in the cell and hand the keys over to the Miner's Exchange over in the morning. In the meantime, the other half of the party delivers Qelline to safety.
+- Upon reuniting, Dravik feels a presence in his mind. It tells him:
+	- "Come and find me soon."
+- The party arrives to Stonehill Inn. Zinna sets them up with food and bedding, then speaks to Toblin. They go up to get some sleep. Wendell and Zinna bunk together, Corrin and Dravik together, and Sha and Caiphene go together.
+- At night, Dravik is called out by the mysterious voice. He meets up with the figure outside, successfully sneaking out, and reports back everything that he has observed -- both regarding the town and the party. He tells the figure all of the party's weaknesses and the woman praises him. She tells him to watch and wait, then produces a dagger which she hands over to Dravik. He tells her he is ready to serve and then she is gone.
+- In the morning, Zinna and Corrin split off to go to the Miner's Exchange while the rest of the party goes to check on the Redbrand and then to the Towmaster's Hall.
+- Zinna and Corrin arrive to the Miner's Exchange. Zinna tells the woman running it, Halia, about the Redbrand and hands her the keys. Halia tells her that the garrison was called back to Neverwinter, leaving the space woefully understaffed. Then, she lets Zinna use her workspace. Zinna explains she will be making an amulet and hands over 4 gp to make use of the workspace/materials.
+- Corrin asks them about what metal they're mining in Phandalin. They explain that there have been various projects, one of them being mithral and glassteel. They offer to sell him some mithral, but Corrin tells them another time.
+- Dravik and Sha are ambushed. Dravik beats them to the punch and kills one of the Redbrands, then strips them of their gear. Wendell and Caiphene catch up to Sha and Dravik as they all enter the townmaster's hall. There seems to be a long line of people waiting to be seen, but there is no townmaster in sight. 
+- Dravik and Sha push themselves to the front after a fog cloud is cast to absorb the guards. Dravik busts down the door with a flail. Harbin is inside and introduces himself, claiming he is practicing for a performance. The party tries to threaten him for not investigating the matter of the farm, then pivots to ask what is keeping him so busy. Harbin claims there is a group of bandits in the southern hills led by Brughor Axe-Biter. He offers 300 gp to the entire party to dispose of him. Sha tries to negotiate 150 gp per person upfront, then 150 gp when they return.
+- Glasstaff is using the old townmaster's house on the hill. Harbin instructs them to go to Grista, who was kidnapped by Brughor. She is also the one who has most direct communications to Glasstaff. 
