@@ -5,7 +5,7 @@ date: 2025-03-22T20:00:00
 
 ```ad-summary
 title: Last Session Recap
-collapse: closed
+collapse: open
 
 The party infiltrates the ruins of Tresendar Manor through an old service entrance, discovering traces of the Redbrands. A mysterious magical fox watches them before vanishing. Inside, they encounter eerie inscriptions and artifacts linked to the Tresendar family, including a silver ladle and a noble’s locket. Fighting off bandits, they hide the bodies and navigate a deadly trap before reaching the family crypt, where they uncover the legacy of Lord Talemar Tresendar. After disturbing the tombs, skeletal guardians attack. The party also rescues prisoners from Redbrand jailers and finds evidence of a human trafficking operation.
 
