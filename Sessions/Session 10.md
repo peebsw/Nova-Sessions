@@ -1,6 +1,6 @@
 ---
-date: 
-"Session #":
+date: 2025-04-07T19:00:00
+"Session #": "10"
 ---
 ```ad-summary
 title: Last Session Recap
@@ -17,5 +17,5 @@ After uncovering the real Glassstaff's corpse and dispatching his shapeshifting 
 - Dravik sees the Lady of the Night in the crowd, and the two silently agree that the fight is the perfect distraction/time to take care of Gundren.
 - Halia delivers the finishing blow to Vraxen and numerous other NPCs. 
 - The party cleans up the rest.
-- Lt. Garren and his men finally arrive -- they represent the Lord's Alliance. Around 18 people were lost in the battle.
+- Lt. Garren and his men finally arrive -- they represent the Lord's Alliance. Around 18 people were lost in the battle. They are preoccupied with creating some defense in the west.
 - Sildar wonders where the Rockseeker brothers are, Dravik pretends to wonder too.
